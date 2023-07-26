@@ -165,8 +165,7 @@ Complexity:
 - Time: O(n * log n).
 - Space: O(1).
 
-## [7. Data Stream as Disjoint Intervals
-](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
+## [7. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
 
 ```java
 class SummaryRanges {
