@@ -1,4 +1,4 @@
-# Intervals - Homework Solutions
+# Two Pointers - Homework Solutions
 
 Speaker: Hiệp
 
