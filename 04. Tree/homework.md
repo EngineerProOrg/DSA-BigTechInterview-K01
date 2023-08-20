@@ -147,7 +147,7 @@ class Solution {
 Complexity:
 
 - Time: O(n).
-- Space: O(1).
+- Space: O(h).
 
 ## [6. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
 
